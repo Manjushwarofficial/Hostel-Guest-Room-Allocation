@@ -1,12 +1,16 @@
 # Hostel-Guest-Room-Allocation
-Made with and without AI (both frameworks being isolated) 
+Made with and without AI (both frameworks being isolated) {inspired by Increff 3rd and 4th interview round}
 
-## Part 1: (made in 3 hrs)
+## Part 1: Hostel Guest Room Allocation (C++): (made in 3 hrs)
 
-Demo link : Click here
+- Built using C++ with an object-oriented design.
+- Organized into separate modules for entities, dummy data seeding, helper functions, and allocation algorithms.
+- Includes a console-based demo for room allocation, booking, and guest management.
 
-The framework designed through OOPS (organised cpp files for entities, dummy data seed script, helper functions, algorithms for functionality given in problem statement)
+Demo link: [See here](https://drive.google.com/file/d/193o5_xK5kIriDrCjFPi1GtwQFqYSGA2-/view?usp=share_link)
 
-### Part 2: (made in 2 hrs)
+## Part 2: Web Framework Implementation
 
-Same problem statement made using any web framework but with the help of coding assistance given that all the source code is explainable.
+- The same problem statement implemented using a web framework.
+- Built with coding assistance while keeping the source code explainable and maintainable.
+  
